@@ -1,0 +1,21 @@
+{
+    "name": "Traffic.TrafficPath.Editor",
+    "references": [
+        "Unity.Mathematics",
+        "Gameplay",
+        "Unity.Rendering.Hybrid",
+        "Unity.Transforms",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gameplay",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Transforms",
+        "Unity.Burst",
+        "Unity.Rendering.Hybrid",
+        "Unity.Entities.Streaming",
+        "Unity.Collections"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

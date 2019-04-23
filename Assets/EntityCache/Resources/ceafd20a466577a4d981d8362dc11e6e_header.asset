@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c855a652aa5d42c29e0840c878b104c, type: 3}
+  m_Name: ceafd20a466577a4d981d8362dc11e6e_header
+  m_EditorClassIdentifier: 
+  Sections:
+  - SceneGUID:
+      Value:
+        x: 2687367916
+        y: 1249334884
+        z: 1670191261
+        w: 3873512658
+    SubSectionIndex: 0
+    FileSize: 211828
+    SharedComponentCount: 10
+    BoundingVolume:
+      Center:
+        x: -835.06665
+        y: 378.71857
+        z: 976.5506
+      Extents:
+        x: 104.00595
+        y: 188.63062
+        z: 92.435486
+  - SceneGUID:
+      Value:
+        x: 2687367916
+        y: 1249334884
+        z: 1670191261
+        w: 3873512658
+    SubSectionIndex: 1
+    FileSize: 19729442
+    SharedComponentCount: 569
+    BoundingVolume:
+      Center:
+        x: -835.06665
+        y: 378.71857
+        z: 976.5506
+      Extents:
+        x: 104.00595
+        y: 188.63062
+        z: 92.435486
